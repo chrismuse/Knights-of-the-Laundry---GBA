@@ -1,0 +1,2 @@
+# Knights-of-the-Laundry---GBA
+Knights of the Laundry is a GameBoy Advance game coded entirely in the C Programming Language. To play Knights of the Laundry, you must avoid the enemy Slimes while collecting the kingdom's dirty laundry. Use the arrow keys to move, A to activate your shield, and B to use a disguise. The project file is a GBA Rom, and it is recommended that players use a GBA Emulator to play the game
